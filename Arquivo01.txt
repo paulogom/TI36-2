@@ -3,3 +3,5 @@ Criação do repositório na máquina
 Versão 1
 
 Modificação no ramo 01
+
+Modificação pelo VS Code
